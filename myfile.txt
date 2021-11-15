@@ -1,2 +1,3 @@
 my file insert line 1
 this is feature_test line 2
+this is feature_test2 line 3
